@@ -1,0 +1,2 @@
+CREATE USER 'admin'@'%';
+GRANT ALL PRIVILEGES ON *.* TO 'admin'@'%' WITH GRANT OPTION;
